@@ -71,7 +71,7 @@ My name is Wilian Gabriel da Silva. I work as a TechLead of the [Horusec](https:
 <a href="https://www.linkedin.com/in/wiliangs"><img src="https://img.shields.io/badge/-wiliangs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/wiliangds"><img src="https://img.shields.io/badge/-@wiliangds-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://wiliangs.medium.com/"><img src="https://img.shields.io/badge/-@wiliangs-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="mailto:wiliang746@gmail.com"><img src="https://img.shields.io/badge/-wilian.silva@zup.com.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:wilian.silva@zup.com.br"><img src="https://img.shields.io/badge/-wilian.silva@zup.com.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 #### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
